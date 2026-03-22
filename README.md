@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Quant Investment System
 
 Sistema para simulación y predicción de mercados financieros.
