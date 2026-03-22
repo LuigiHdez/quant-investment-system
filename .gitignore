@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.env
+*.egg-info/
+dist/
+build/
+
+# Datos locales
+data/*.csv
+data/*.parquet
+data/*.db
+
+# Modelos
+models/*.pkl
+models/*.joblib
+
+# Logs y reportes
+logs/
+reports/*.html
+reports/*.png
+
+# IDE
+.vscode/
+.idea/
+*.swp
